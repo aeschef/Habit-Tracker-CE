@@ -1,0 +1,66 @@
+.btn-col button{
+    /*background-color: #4c5b61;*/
+    border: 1px ;
+    color: #000000;
+    padding: 4px 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border-radius: 2px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+.mbtn button{
+    background-color: #493548;
+    border: 1px solid #493548;
+    color: #000000;
+    padding: 4px 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border-radius: 2px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.w-btn button{
+    background-color: #4B4E6D;
+    border: 1px solid #4B4E6D;
+    color: #000000;
+    padding: 4px 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border-radius: 2px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.e-btn button{
+    background-color: #6A8D92;
+    border: 1px solid #6A8D92;
+    color: #000000;
+    padding: 4px 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border-radius: 2px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.c-btn button{
+    background-color: #e9dc67;
+    border: 1px solid #e9dc67;
+    color: #000000;
+    padding: 4px 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border-radius: 2px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+
+
+.btn-col:after{
+    content: "";
+    clear: both;
+    display: table;
+}
